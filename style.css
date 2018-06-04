@@ -57,10 +57,12 @@ img{
   border:solid 5px #9370DB;
 }
 .my-description{
-  background:white;
+  background:purple;
   margin:3%
   padding:4%;
   font-family:'Montserrat,'sans-serif;
+  color:white;
+  
 }
 .project-container{
   margin-top:20%;
